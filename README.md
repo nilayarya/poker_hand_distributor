@@ -31,7 +31,7 @@ It’s pretty intuitive, but here’s the general flow:
 
 
 
-**Flipping cards**:
+**All cards are dealt face down**:
 
 ![cardflipping](https://github.com/user-attachments/assets/e7f205fd-bbc3-42ee-ab51-746e86ff76ef)
 
